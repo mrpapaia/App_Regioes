@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/brasil"
+            android:icon="@drawable/mapa_brasil"
+            android:title="Brasil" />
+        <item
+            android:id="@+id/regiao_norte"
+            android:icon="@drawable/ic_mapa_norte"
+            android:title="Região Norte" />
+        <item
+            android:id="@+id/regiao_nordeste"
+            android:icon="@drawable/ic_mapa_nordeste"
+            android:title="Região Nordeste" />
+        <item
+            android:id="@+id/regiao_centro_oeste"
+            android:icon="@drawable/ic_mapa_centrooeste"
+            android:title="Região Centro-Oeste" />
+        <item
+            android:id="@+id/regiao_sul"
+            android:icon="@drawable/ic_mapa_sul"
+            android:title="Região Sul" />
+        <item
+            android:id="@+id/regiao_sudeste"
+            android:icon="@drawable/ic_mapa_sudeste"
+            android:title="Região Sudeste" />
+    </group>
+
+</menu>
